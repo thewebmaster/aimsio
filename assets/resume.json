@@ -1,0 +1,261 @@
+{
+    "header": {
+        "image": "/assets/images/image.jpg",
+        "name": "Mark Dacanay",
+        "role": "IT Support Specialist",
+        "experienceInIt": "3+ years of experience in the IT field",
+        "experienceInCs": "10+ years Customer Service expeience",
+        "email": "mjfdacanay@gmail.com",
+        "phone": "306 515 2605",
+        "address": "30 Brentwood CM NW, Calgary, AB T2L 2L8",
+        "profile": "https://www.linkedin.com/in/mark-dacanay-6b838718a/",
+        "languages": "English"
+    },
+    "main": {
+        "workExperiences": [
+            {
+                "title": "IT Support Technician",
+                "company": "IntraGrain Technologies",
+                "locationWork": "Regina, Saskatchewan",
+                "durationWork": "since March 2019",
+                "responsibilities": [
+                    "Provide technical assistance and troubleshooting to staff, dealers and customers",
+                    "Troubleshoot proprietary apps, mobile devices (Android/iOS) and computers (Mac/Windows)",
+                    "Write SQL queries depending on requirements and/or information that needs to be captured",
+                    "Update company websites via WordPress Dashboard and if necessary, make changes to source code",
+                    "Code and develop Internal Tools",
+                    "Utilize Version Control (Bitbucket) for peer reviewing and verification of changes being made to source code",
+                    "Manage Ticketing System (Request Tracker) by adding/editing fields to capture various types of data and information",
+                    "Use ERP to track products",
+                    "Coordinate with the Warranty Department to process claims",
+                    "Escalate issues to the Development Team when all troubleshooting options have been explored",
+                    "Utilize Asset Management System/Software to add and assign assets to staff",
+                    "Write weekly Technical Support Team reports",
+                    "Submit and document bug reports through JIRA",
+                    "Generate reports for other departments depending on requirements",
+                    "Use Linux/CLI to SSH directories/files as well as make changes directly via Terminal",
+                    "Run Python scripts to update database records without making direct changes to the database",
+                    "Conduct Staff and Dealer training",
+                    "Manage Machine to Machine (M2M) SIM cards, adjust data plan according to data usage & create alert triggers to prevent overage usage"
+                ]
+            },
+            {
+                "title": "Computer Technician / Web Developer",
+                "company": "Freelance",
+                "locationWork": "Regina, Saskatchewan",
+                "durationWork": "since February 2015",
+                "responsibilities": [
+                    "Perform computer maintenance, software and Operating System upgrade",
+                    "Initial setup of computers /devices, install software according to user requirements",
+                    "Data recovery and backup",
+                    "Hardware upgrade, cleaning and maintenance",
+                    "Network troubleshooting and optimization",
+                    "Design websites for clients depending on requirements and preferences",
+                    "Design website for clients",
+                    "Meet with clients to gather requirements and provide updates on progress of projects",
+                    "Publish websites to live environment",
+                    "Provide support for clients to ensure they are satistfied with results"
+                ]
+            },
+            {
+                "title": "Manager Trainee",
+                "company": "Sherwood Co-Op Limited",
+                "locationWork": "Regina, Saskatchewan",
+                "durationWork": "From February 2015 to March 2019",
+                "responsibilities": [
+                    "Provide outstanding customer service",
+                    "Give suggestions and recommendations to customers (upselling & cross-selling",
+                    "Assist with various managerial tasks such as ordering and receiving goods",
+                    "Use proprietary Federate Cooperatives Limited (FCL) software to perform managerial tasks such as Receiving, Ordering, Inventory Management etc"
+                ]
+            },
+            {
+                "title": "Customer Service Representative / Technical Support",
+                "company": "OptimizerHQ Corporation",
+                "locationWork": "Auckland, New Zealand",
+                "durationWork": "From March 2013 to December 2013",
+                "responsibilities": [
+                    "Inbound and outbound calling (New Zealand, Australia, United Kingdom, Canada & United States)",
+                    "Answered phone calls from customers to assist with both general and technical queries",
+                    "Assisted clients with technical issues (levels 1 & 2 tickets)",
+                    "Escalated level 3 technical queries (tickets) to programming department",
+                    "Created campaigns (email newsletters) on customer's behalf",
+                    "Used various programming languages (HTML, CSS, PHP & SQL) to assist with customer's technical queries",
+                    "Touched base with customers proactively to ensure they are happy with company's products and services",
+                    "Contacted new clients and assisted with the sign up and set up process"
+                ]
+            },
+            {
+                "title": "Call Centre Representative",
+                "company": "AC Nielsen",
+                "locationWork": "Auckland, New Zealand",
+                "durationWork": "From May 2007 to August 2007",
+                "responsibilities": [
+                    "Outbound calling, contacted households",
+                    "Conducted surveys on behalf of various private and public companies in New Zealand and Australia",
+                    "Performed follow up calls to clients"
+                ]
+            }
+        ],
+        
+        "educations": [
+            {
+                "degree": "Bachelor of Information Sciences (BInfSc)",
+                "school": "Massey University",
+                "locationSchool": "Auckland, New Zealand",
+                "durationSchool": "From February 2010 to April 2013",
+                "specializations": [
+                    "Major in Information Technology",
+                    "Minor in Business Management"
+                ]
+            },
+            {
+                "degree": "National Certificate of Eduational Achievement (Level 3) - High School",
+                "school": "Northcote College",
+                "locationSchool": "Auckland, New Zealand",
+                "durationSchool": "From February 2007 to December 2008",
+                "specializations": []
+            }
+        ],
+        
+        
+        "certificates": [
+            "ITIL 4 Foundation (June 2020)",
+            "Google IT Support Professional Certificate - IT Support Fundamentals (September 2020)",
+            "Google IT Support Professional Certificate - The Bits and Bytes of Computer Networking (September 2020)",
+            "Google IT Support Professional Certificate - Operating Systems & You: Becoming a Power User (September 2020)",
+            "CompTIA A+ 901 (February 2019)"
+        ],
+        
+        "courses": [
+            {
+                "name": "IT Courses",
+                "modules": [
+                    "Google IT Support Professional Course - Coursera (Ongoing)",
+                    "Google IT Support Professional Certificate - System Admministration and IT Infrastructure Services - Coursera (Ongoing)",
+                    "Google IT Support Professional Certificate - Operating Systems & You: Becoming a Power User - Coursera (September 2020)",
+                    "Google Bits & Bytes of Computer Networking - Coursera (September 2020)",
+                    "Google IT Support Fundamentals - Coursera (September 2020)",
+                    "ITIL 4 Foundation Course - Online (June 2020)",
+                    "CompTIA A+ 901 (February 2019)"
+                ] 
+            },
+            {
+                "name": "Miscellaneous Courses",
+                "modules": [
+                    "Leadership Secrets (Federated Co-Operatives Ltd - FCL) Certificate (April 2018)",
+                    "Creative Problem Solving (FCL) Certificate (April 2018)",
+                    "Manager: More than a Title (FCL) Certificate (January 2018)",
+                    "Understanding Margine (FCL) Certificate (July 2017)",
+                    "Working, Communicating Effectively (FCL) Certificate (March 2017)",
+                    "Successful Supervision (FCL) Certificate (March 2017)",
+                    "Financial Statements (FCL) Certificate (October 2016)",
+                    "Guest Service (FCL) Certificate (October 2015)"
+                ]
+            }
+        ],
+        "computerSkills": [
+            {
+                "skill": "Microsoft Office 365",
+                "skillRating": "100",
+                "skillDesc": [
+                    "Utilize full suite of Microsoft products (Word, Excel, Outlook, Teams)"
+                ]
+            },
+            {
+                "skill": "SQL Workbench",
+                "skillRating": "75",
+                "skillDesc": [
+                    "Set up and connect to database. Write SQL queries to generate required or requested information"
+                ]
+            },
+            {
+                "skill": "Request Tracker (RT Ticket System)",
+                "skillRating": "80",
+                "skillDesc": [
+                    "Log incidents, feedback and requets from various stakeholders such as end users and dealers",
+                    "Generate reports using data collected from Ticket System",
+                    "Make improvements to ticket system by adding fields to capture essential information"
+                ]
+            },
+            {
+                "skill": "Visual Studio Code",
+                "skillRating": "60",
+                "skillDesc": [
+                    "Program, modify code. Integratewith BitBucket to increase coding efficiency"
+                ]
+            },
+            {
+                "skill": "WordPress",
+                "skillRating": "60",
+                "skillDesc": [
+                    "Maintain and make changes to company websites using WordPress CMS",
+                    "Examples: binsense.com, intragrain.com, fuellock.ca"
+                ]
+            },
+            {
+                "skill": "BitBucket/JIRA",
+                "skillRating": "45",
+                "skillDesc": [
+                    "Clone repositories, push, merge changes. Create pull requests and use git to push changes to live environment. Create well-documented JIRA tickets for bugs & feature improvements"
+                ]
+            },
+            {
+                "skill": "Linux/Bash/CLI/PowerShell",
+                "skillRating": "45",
+                "skillDesc": [
+                    "Navigate CLI and carry out tasks such as change permissions, secure copy, SSH, restart server"
+                ]
+            }
+        
+        ],
+        "webDevelopmentSkills": [
+            {
+                "technology": "HTML5",
+                "rating": "80"
+            },
+            {
+                "technology": "CSS3 / Bootstrap 4",
+                "rating": "75"
+            },
+            {
+                "technology": "PHP",
+                "rating": "65"
+            },
+            {
+                "technology": "JavaScript",
+                "rating": "45"
+            }
+        ],
+        "attributes": [
+            {
+                "attrName": "Analytical",
+                "attrRating": "80",
+                "attrDesc": "Troubleshoot various software and hardware issues"
+            },
+            {
+                "attrName": "Communication",
+                "attrRating": "100",
+                "attrDesc": "Effective verbal and written communication with teams, dealers, end users and other parties"
+            },
+            {
+                "attrName": "Adaptability",
+                "attrRating": "100",
+                "attrDesc": "Able to quickly learn and adapt to changes in processes and staffing"
+            },
+            {
+                "attrName": "Leadership",
+                "attrRating": "75",
+                "attrDesc": "Take charge of weekly and monthly deadlines such as reports and ticket resolutions"     
+            },
+            {
+                "attrName": "Teamwork",
+                "attrRating": "100",
+                "attrDesc": "Work harmoniously and effectively in any team"
+            }
+        ],
+        "references": "References available upon request"
+    }
+
+
+}
